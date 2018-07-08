@@ -15,3 +15,11 @@ Test-Driven Development with Python's code
 - original process (ubuntu-cui on virtual box) 
     - install and run xvdf (https://web-dev.hatenablog.com/entry/linux/ubuntu/install-firefox-xvfb)
     - export DISPLAY=:99
+
+## Chapter 1. Getting Django Set Up Using a Functional Test
+[url](https://www.safaribooksonline.com/library/view/test-driven-development-with/9781491958698/ch01.html)
+
+- update .gitignore
+- run tests with selenium and firefox
+- django command runserver for executing web server
+
