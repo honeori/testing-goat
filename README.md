@@ -23,3 +23,13 @@ Test-Driven Development with Python's code
 - run tests with selenium and firefox
 - django command runserver for executing web server
 
+## Chapter 2. Extending Our Functional Test Using the unittest Module
+[url](https://www.safaribooksonline.com/library/view/test-driven-development-with/9781491958698/ch02.html#chapter_02_unittest)
+
+- building a to-do list sites
+    - it is very simple - just a list of text
+    - There's no reason to be limited to just "to-do"
+- FTs(functional tests) should have a human-readable story that we can follow
+- unittest module give us various assertion methods and setUp/tearDown like try/finally sentense
+- Firstly, we make User Stroy using comments that accompany the test code
+    
