@@ -35,3 +35,6 @@ Test-Driven Development with Python's code
     
 ## Chapter 3. Testing a Simple Home Page with Unit Tests
 [url](https://www.safaribooksonline.com/library/view/test-driven-development-with/9781491958698/ch03.html)
+
+- write a test and run the unit tests and see how they fail
+- make a minimal code change to address the current test failure
