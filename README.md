@@ -33,3 +33,5 @@ Test-Driven Development with Python's code
 - unittest module give us various assertion methods and setUp/tearDown like try/finally sentense
 - Firstly, we make User Stroy using comments that accompany the test code
     
+## Chapter 3. Testing a Simple Home Page with Unit Tests
+[url](https://www.safaribooksonline.com/library/view/test-driven-development-with/9781491958698/ch03.html)
