@@ -38,3 +38,17 @@ Test-Driven Development with Python's code
 
 - write a test and run the unit tests and see how they fail
 - make a minimal code change to address the current test failure
+
+## Chapter 4
+- test for POST method and using Model
+
+### Code smell: POST test is too long?
+- a long unit test either needs to be broken into two, or testing is too complicated
+
+### You should add your list of things to fix later
+ex.
+1. Don’t save blank items for every request
+2. Code smell: POST test is too long?
+3. Display multiple items in the table
+4. Support more than one list!
+
